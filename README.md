@@ -36,8 +36,6 @@ Passo a passo para instalar o projeto.
 ## Contribuição
 
 Equipe Wrappers pelo código original
- 
-sebaxakerhtc pela modificação inicial de compatibilidade com o Windows 10
 
 ## Autor
 
